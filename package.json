@@ -1,6 +1,8 @@
 {
   "name": "@steelydylan/markdown-it-imsize",
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "Markdown-it plugin to specify image size",
   "main": "lib/index.js",
